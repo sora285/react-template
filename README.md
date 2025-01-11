@@ -1,1 +1,3 @@
 # react-template
+React+typescroptのテンプレート
+
